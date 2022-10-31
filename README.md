@@ -8,7 +8,7 @@ Hur du använder dig av API:et letar du dig fram till dokumentation - ett förf�
 
 Du kan välja att göra en förfrågan på latitud- och longitudkoordinater eller på stadens namn. Om du vill kan du lägga till en sökruta där användaren definerar staden och detta läses dynamisk in i API-förfrågan.
 
-Välj ut lämplig väderdata som visas som en card (article) eller andra preferenser. 
+Välj ut lämplig väderdata som visas som en card (article), styla enligt preferenser. Samt dynamisk visning av ikon efter vädertyp. 
 
 ## Exempelbild
 
