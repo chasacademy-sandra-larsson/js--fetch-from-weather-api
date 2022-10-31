@@ -4,10 +4,10 @@ I denna övning ska du använda dig av fetch() och async/await för att hämta v
 
 API-et är öppet men kräver en s.k API-key för att kunna förfråga data. Denna nyckel specifierar du i den s.k. endpoint (en url) som används när du gör förfrågan med fetch(). För att få nyckeln registrerar du dig som användare på OpenWeather API.
 
-Hur du använder dig av API:et letar du dig fram till dokumentation - ett förförande somm alltid behöver göras vid anvädandet av ett nytt API.
+Hur du använder dig av API:et letar du dig fram till dokumentation - ett förförande som man alltid behöver göras vid anvädandet av ett nytt API.
 
-Du kan välja att göra en förfrån på latitud- och longitudkoordinater eller på stadens namn. Om du vill kan du lägga till en sökruta där användaren definerar staden och detta läses dynamisk in i API-förfrågan.
+Du kan välja att göra en förfrågan på latitud- och longitudkoordinater eller på stadens namn. Om du vill kan du lägga till en sökruta där användaren definerar staden och detta läses dynamisk in i API-förfrågan.
 
-Välj ut lämplig väderdata som visas som en card (article). 
+Välj ut lämplig väderdata som visas som en card (article) eller andra preferenser. 
 
 ## Exempelbild
