@@ -11,3 +11,5 @@ Du kan välja att göra en förfrågan på latitud- och longitudkoordinater elle
 Välj ut lämplig väderdata som visas som en card (article) eller andra preferenser. 
 
 ## Exempelbild
+
+[](https://github.com/chasacademy-sandra-larsson/js--fetch-from-weather-api/blob/main/weatherdata.png)
