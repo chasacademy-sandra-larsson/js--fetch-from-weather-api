@@ -12,4 +12,4 @@ Välj ut lämplig väderdata som visas som en card (article) eller andra prefere
 
 ## Exempelbild
 
-[Weather data](https://github.com/chasacademy-sandra-larsson/js--fetch-from-weather-api/blob/main/weatherdata.png)
+![Weather data](https://github.com/chasacademy-sandra-larsson/js--fetch-from-weather-api/blob/main/weatherdata.png)
