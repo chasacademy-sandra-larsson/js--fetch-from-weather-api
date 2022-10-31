@@ -1,3 +1,9 @@
-# js--weather-api
+# Instruktioner: Enkel dashboard med väderdata (OpenWeatherMap API) 
 
-https://home.openweathermap.org/users/sign_in
+I denna övning ska du använda dig av fetch() och async/await för att hämta väderdata för en aktuell väderstation (stad). Du använder dig av det öppna API:et OpenWeatherMap https://home.openweathermap.org/.
+
+API-et är öppet men kräver en s.k API-key för att kunna förfråga data. Denna nyckel specifierar du i den s.k. endpoint (en url) som används när du gör förfrågan med fetch(). För att få nyckeln registrerar du dig som användare på OpenWeather API.
+
+Hur du använder dig av API:et letar du dig fram till dokumentation - ett förförande somm alltid behöver göras vid anvädandet av ett nytt API:
+
+Du kan välja att göra en förfrån på latitud- och longitudkoordinater eller på stadens namn. Om du vill kan du lägga till en sökruta där användaren definerar staden och detta läses dynamisk in i API-förfrågan.
